@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks change.
 cerating a new branch is quick and simple.
+branch manage
 
